@@ -15,14 +15,14 @@
 } */
 
 .mobile-nav{
-    @apply fixed top-10  left-0 w-full h-1/3 bg-purple-900
+    @apply fixed top-10  left-0 w-full h-40 bg-purple-900
 }
 
 .mobile-nav li {
-    @apply  border-neutral-900 border-b-2 text-center
+    @apply  w-full  border-neutral-900 border-b-2 text-center
 }
-/* 
-.mobile-nav ul{
+
+/* .mobile-nav ul{
     @apply 
 } */
 
